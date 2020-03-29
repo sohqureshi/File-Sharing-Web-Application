@@ -18,4 +18,4 @@ A small Node.js app designed for sharing files while on the same network. Especi
 Project saves sent files in "files" folder. Also files in "files" folder can be downloaded from the browser.
 
 PORT enviroment varible is used to change the port. e.g. ```export PORT=3030; node main.js```
-# File-Sharing-Web-Application
+
